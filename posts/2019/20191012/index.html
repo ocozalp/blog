@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<title>GIT_SSH_COMMAND | Blog</title>
+<meta charset="utf-8">
+<meta name="generator" content="Hugo 0.56.3" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="canonical" href="https://ocozalp.com/blog/posts/2019/20191012/">
+<link rel="alternate" type="application/rss+xml" href="" title="Blog">
+<link rel="stylesheet" href="https://ocozalp.com/blog/css/theme.css">
+<link rel="stylesheet" href="https://ocozalp.com/blog/css/classes.css">
+
+<header class="dark">
+  <h2><a href="https://ocozalp.com/blog/">Blog</a></h2>
+  <nav>
+    
+  </nav>
+</header>
+
+<article>
+  <header>
+    <h1><a href="https://ocozalp.com/blog/posts/2019/20191012/">GIT_SSH_COMMAND</a></h1>
+    <p class="meta"><time datetime="2019-10-12T23:08:25-04:00">October 12, 2019</time></p>
+  </header>
+  <p>Kullandigim bilgisayar sirket bilgisayari ve haliyle ssh icin onceden yapilmis bin tane bastion&rsquo;di bilmemneydi ayar var. Kendi sunucuma <code>git push</code> yaparken de alakasiz bir adres oldugu icin ssh cok uzun suruyor.</p>
+
+<p>Ayni zamanda git&rsquo;in kullandigi bir suru environment variable arasinda <code>GIT_SSH_COMMAND</code> diye bir tane de var. Bu, kisacasi, eger remote repository ssh protokolu ile tanimlandiysa burada kullanilacak ssh komutunu gosteriyor (default degeri haliyle <code>ssh</code>).</p>
+
+<pre><code class="language-shell">&gt;&gt; export GIT_SSH_COMMAND='ssh -F /dev/null'
+</code></pre>
+
+<p>yaparsak da tum on tanimli config&rsquo;i yok sayip dertlerimizden kurtuluyoruz.</p>
+
+</article>
+
+
+
+</html>
