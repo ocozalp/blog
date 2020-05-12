@@ -6,10 +6,20 @@
     <description>Recent content on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Oct 2019 23:08:25 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2020 17:52:33 -0400</lastBuildDate>
     
 	<atom:link href="https://ocozalp.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mark&#39;in Kankasi Kim?</title>
+      <link>https://ocozalp.com/blog/posts/2020/20200512/</link>
+      <pubDate>Tue, 12 May 2020 17:52:33 -0400</pubDate>
+      
+      <guid>https://ocozalp.com/blog/posts/2020/20200512/</guid>
+      <description>Uber&amp;rsquo;e ise girmek icin tum gorusmeleri tamamladiktan sonra, &amp;ldquo;Mark Donner diye biri var, seninle gorusmek istiyor&amp;rdquo; diye beni bir yere kahveye davet etmislerdi. O gun gorustuk, keyifli de bir sohbet ettik, Mark bana bir suru de sey anlatti ama aklimda en cok yer eden sey CMU&amp;rsquo;dan doktorasi olmasi oldu (kac sene gecti hala boyle adamlari gorunce &amp;ldquo;burada ne isim var&amp;rdquo; hissiyatina kapiliyorum).
+Ise girdikten 5-6 ay sonra, Mark&amp;rsquo;in olagan aylik ziyaretlerinden birinde, &amp;ldquo;size cok kisisel bir sorum var, tahmin ederseniz bir tane rozet vericem&amp;rdquo; diyip, okuldaki kankasinin adini sormustu.</description>
+    </item>
     
     <item>
       <title>GIT_SSH_COMMAND</title>
