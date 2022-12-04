@@ -1,38 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://ocozalp.com/blog/</loc>
-    <lastmod>2020-05-12T17:52:33-04:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-12-04T00:18:39-05:00</lastmod>
+  </url><url>
+    <loc>https://ocozalp.com/blog/posts/2022/20221204/</loc>
+    <lastmod>2022-12-04T00:18:39-05:00</lastmod>
+  </url><url>
+    <loc>https://ocozalp.com/blog/posts/</loc>
+    <lastmod>2022-12-04T00:18:39-05:00</lastmod>
+  </url><url>
     <loc>https://ocozalp.com/blog/posts/2020/20200512/</loc>
     <lastmod>2020-05-12T17:52:33-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ocozalp.com/blog/posts/</loc>
-    <lastmod>2020-05-12T17:52:33-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ocozalp.com/blog/posts/2019/20191012/</loc>
     <lastmod>2019-10-12T23:08:25-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ocozalp.com/blog/posts/2019/20190927/</loc>
     <lastmod>2019-09-27T16:50:22-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ocozalp.com/blog/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ocozalp.com/blog/tags/</loc>
   </url>
-  
 </urlset>
